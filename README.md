@@ -11,3 +11,9 @@
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
+
+
+*cursiva*	cursiva
+_cursiva_	cursiva
+**negrita**	negrita
+__negrita__
