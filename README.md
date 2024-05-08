@@ -13,7 +13,7 @@
 ###### Encabezado 6
 
 
-*cursiva*	cursiva
-_cursiva_	cursiva
-**negrita**	negrita
+*cursiva*	
+_cursiva_	
+**negrita**	
 __negrita__
